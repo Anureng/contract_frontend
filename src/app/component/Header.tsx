@@ -22,7 +22,7 @@ const Header = () => {
                         <div>
                             <p>
                                 Explore our vast collection of coding challenges and algorithms to sharpen your skills. From
-                                beginner-friendly exercises to mind-bending puzzles, we've got something for every level of programmer.
+                                beginner-friendly exercises to mind-bending puzzles, weve got something for every level of programmer.
                             </p>
                             <p className="mt-4">
                                 Join our vibrant community of problem-solvers and collaborate with like-minded individuals to tackle
